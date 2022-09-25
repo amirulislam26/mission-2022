@@ -1,4 +1,4 @@
-.container{
+.containe{
     display: flex;
     margin-top: 40px;
     margin: 5%;
@@ -131,5 +131,18 @@ br {
 }
 .text-titles{
     margin-top: 70px;
+    margin-left: 25px;
+}
+.person{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: 100px;
+}
+.img-fulids{
+    width: 400px;
+    margin-left: 30px;
+}
+.text-titler{
+    margin-top: 9px;
     margin-left: 25px;
 }
