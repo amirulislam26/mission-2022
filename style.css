@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    margin-top: 40px;
+    margin: 5%;
+    
+}
+.banner-item{
+    text-align: center;
+    background-color:chartreuse;
+    color: white;
+}
+.banner-item:hover{
+    color: red;
+}
+.half-width {
+    width: 100%;
+}
+
+.half-width img {
+    margin-left: 10%;
+    width: 60%
+}
+.live-item{
+    border-left: 10px solid palegreen;
+    border-radius: 5px;
+}
+.text{
+    padding: 40px;
+    box-shadow: 5px 5px 5px 7px gainsboro;
+    border-radius: 5px;
+    font-size: 20px;
+    color: goldenrod;
+}
+a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 15px 40px;
+    border-radius: 8px;
+}
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    color: chocolate;
+
+}
+
+.orange-color {
+    color: burlywood;
+}
