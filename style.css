@@ -125,3 +125,11 @@ br {
     border: none;
     border-radius: 8px;
 }
+.containers4{
+    display: flex;
+    margin-top: 100px;
+}
+.text-titles{
+    margin-top: 70px;
+    margin-left: 25px;
+}
