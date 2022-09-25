@@ -146,3 +146,74 @@ br {
     margin-top: 9px;
     margin-left: 25px;
 }
+br {
+    margin: 30px;
+}
+
+.head-line {
+    text-align: center;
+    color: chocolate;
+}
+
+.contacts {
+    margin-top: 40px;
+    box-shadow: 7px 5px 7px 5px gainsboro;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 8%;
+    padding: 30px;
+}
+
+hr {
+    width: 70%;
+    margin: 10px;
+    margin-left: 15%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
+.fa-facebook,
+.fa-linkedin {
+    color: blue;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.fa-youtube {
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.fa-phone {
+    color: aqua;
+    margin-right: 8px;
+}
+
+.fa-tiktok,
+.fa-github {
+    margin-right: 8px;
+}
+
+.fa-copyright {
+    color: blue;
+    margin: 5px;
+    size: 5px;
+    align-items: center;
+}
+
+footer {
+    margin-top: 40px;
+    background-color: #000000;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-align: center;
+}
