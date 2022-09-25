@@ -106,3 +106,22 @@ br {
     text-align: center;
     color: rgb(36, 210, 30);
 }
+.containers{
+    display: flex;
+    margin-top: 30px;
+}
+.img-fulid{
+    width: 75%;
+    margin-left: 30px;
+}
+.text-title{
+    margin-left: 0;
+    margin-right: 200px;
+}
+.btn-title{
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+}
