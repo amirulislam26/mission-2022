@@ -49,5 +49,60 @@ h2 {
 }
 
 .orange-color {
-    color: burlywood;
+    color: rgb(185, 181, 177);
+}
+.container2 {
+    display: flex;
+    margin-left: 5px;
+    justify-content: space-around;
+}
+
+.half1 {
+    width: 370px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(33, 213, 60);
+    box-shadow: 5px 5px 5px gray;
+    border-left: greenyellow;
+}
+.half2 {
+    width: 370px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(33, 192, 213);
+    box-shadow: 5px 5px 5px gray;
+    border-left: greenyellow;
+}
+.half3 {
+    width: 370px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(213, 33, 171);
+    box-shadow: 5px 5px 5px gray;
+    border-left: greenyellow;
+}
+
+.half1 img {
+    width: 50%;
+}
+.half2 img {
+    width: 50%;
+}
+.half3 img {
+    width: 50%;
+}
+
+br {
+    margin: 30px;
+}
+
+.head-line {
+    text-align: center;
+    color: rgb(36, 210, 30);
 }
